@@ -1,0 +1,4 @@
+.docpad.db
+node_modules/
+out/
+src/

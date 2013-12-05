@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+node_modules/
+*.swp
+>>>>>>> 9c792ac5b19e720248015758969a0460d6db46d9
 =======
 .DS_Store
 node_modules/
